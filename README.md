@@ -16,6 +16,13 @@ Instrucciones básicas de instalación.
 
 Para más detalles, consulta la [guía de instalación](INSTALACION.md).
 
+## Construcción
+
+Resumen de la documentación.
+
+- [Parte 1](docs/partes/01part.md)
+- [Parte 2](docs/partes/02part.md)
+
 ## Uso
 
 Instrucciones básicas de uso.
