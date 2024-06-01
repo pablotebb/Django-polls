@@ -1,5 +1,3 @@
-[01part](partes/01part.md)
-
 **FAQs:**
 
 1. Como instalo Django y creo una aplicación (con entorno virtual)?
