@@ -22,6 +22,7 @@ Resumen de la documentación.
 
 - [Parte 1](docs/partes/01part.md)
 - [Parte 2](docs/partes/02part.md)
+- [Parte 3](docs/partes/03part.md)
 
 ## Uso
 
